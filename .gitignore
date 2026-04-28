@@ -1,0 +1,4 @@
+*.log
+!error.log
+tmp/
+.env
